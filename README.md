@@ -1,2 +1,3 @@
 # rust_runoob
-rust learning path
+rust learning ;
+## learning by doing
