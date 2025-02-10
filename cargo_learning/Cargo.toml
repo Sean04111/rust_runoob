@@ -1,0 +1,17 @@
+[package]
+# setting project name, version etc.
+name = "cargo_learning"
+version = "0.1.0"
+edition = "2021"
+# load whenever
+[build-dependencies]
+# load when build
+[dev-dependencies]
+# load when develop
+# for testing
+
+
+# to load third-party dependencies:
+# add it right here or use cargo add [dependency name] (recommnoned) use cargo rm [dependency name] to delete dependencies
+
+
