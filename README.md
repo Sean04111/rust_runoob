@@ -1,3 +1,3 @@
 # rust_runoob
-rust learning ;
+rust language learning ;
 ## learning by doing
