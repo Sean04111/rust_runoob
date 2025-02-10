@@ -14,8 +14,12 @@
 //      use '' instead of ""
 //
 
+mod compound;
+use compound;
+
 fn main() {
-    basic();
+    //    basic();
+    compound();
 }
 
 fn basic() {
