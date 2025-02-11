@@ -1,8 +1,10 @@
 // this is basically about the ownership in rust
 // which is mentioned in the types section =D
+mod str;
 
 fn main() {
-    ownership();
+    //   ownership();
+    str::str_basic();
 }
 
 fn ownership() {
