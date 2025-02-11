@@ -15,11 +15,10 @@
 //
 
 mod compound;
-use compound;
 
 fn main() {
     //    basic();
-    compound();
+    compound::compound();
 }
 
 fn basic() {
