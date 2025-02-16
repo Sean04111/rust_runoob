@@ -64,5 +64,5 @@ fn move_change_function(p1: &mut i32, p2: &mut String) {
 
 fn move_point(point: &mut Point) {
     (*point).x += 10;
-    (*point.y += 10;
+    (*point).y += 10;
 }
