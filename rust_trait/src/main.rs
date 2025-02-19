@@ -1,5 +1,14 @@
 mod object;
+mod generic;
+mod reload;
+mod polymorphsim;
+mod formular;
+
+use generic::generic_basic;
 use object::object_basic;
+use reload::reload_basic;
+use polymorphsim::polymorphism_basic;
+use formular::formula_basic;
 
 
 trait Greeter {
@@ -24,6 +33,11 @@ fn main() {
     // let sean = Person{name:"sean".to_owned()};
     // sean.greet();
     // Person::hello();
-    object_basic();
+    // object_basic();
+    // generic_basic();
+    // reload_basic();
+    // polymorphism_basic();
+    formula_basic();
 }
+
 
